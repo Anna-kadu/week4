@@ -1,0 +1,145 @@
+body 
+{background: url(/image/Group_fon2.png) no-repeat;
+background-size: 100%;
+}
+
+.link{
+background: #C0B6B6;
+border-radius: 20px;
+text-decoration: none;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: bold;
+padding: 5px;
+margin: 5px;
+color: black;
+display: inline-block;
+width: 13vw;
+font-size: 1.7vw;
+text-align:center
+}
+.link:hover{
+background-color: OliveDrab;
+text-decoration: underline;
+}
+
+
+h3{
+width: 70vw;
+padding-top: 60px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 3.5vw;
+color: #C5BDBD;
+}
+
+h4, h5{ 
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 5vw;
+line-height: 49px;
+color: rgba(241, 197, 145, 0.83);
+margin-top: 10px; 
+margin-bottom: 10px
+}
+
+#logo{
+width: 13vw;
+}
+
+#name {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+font-size: 2vw
+}
+
+#header_mail{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+line-height: 24px;
+color: #FFFFFF;
+font-size: 2.5vw
+}
+
+#header_mail:hover{
+color: rgb(230, 255, 10);
+font-size: 3vw;
+    }
+
+#footer_mail {
+font-family: 'Montserrat';
+font-style:italic;
+font-weight: 100;
+line-height: 20px;
+color: #FFFFFF;
+font-size: 2vw
+}
+#footer_mail:hover{
+color: rgb(230, 255, 10);   
+}    
+
+#speciality{
+color: rgba(197, 189, 189, 0.84);
+font-family: 'Montserrat';
+font-style: normal;
+padding-top: 10px;
+font-weight: 250;
+font-size: 5vw;
+}
+
+h2{
+width: 45vw;
+padding-top: 10px;
+font-family: 'Montserrat';
+font-style: normal;
+font-size: 5vw;
+color: rgba(241, 197, 145, 0.81)
+}
+
+.text{
+font-family: 'Montserrat';
+font-style: normal;
+line-height: 29px;
+color: rgba(241, 197, 145, 0.92);
+font-size: 2.3vw;
+}
+
+fieldset {
+margin-left: 3vw;
+margin-right: 3vw;
+margin-top: 5vw;
+}
+
+#footer_text1{
+font-size: 2vw;
+margin-left: 3vw;
+margin-right: 50vw;
+margin-top: 5vw;
+border-color: rgb(192, 192, 192);
+font-family: 'Montserrat';
+font-style:oblique;
+color: rgba(245, 243, 240, 0.92);
+}
+
+#footer_text2{
+font-size: 2vw;
+margin-left: 50vw;
+margin-right: 3vw;
+margin-top: 5vw;
+border-color: rgb(192, 192, 192);
+font-family: 'Montserrat';
+font-style:oblique;
+color: rgba(245, 243, 240, 0.92);
+}
+
+
+li {list-style-type: none;}
+ul {margin-left: 0; padding-left: 0;}
+
